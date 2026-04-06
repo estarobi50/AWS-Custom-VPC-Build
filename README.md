@@ -3,9 +3,7 @@
   GitHub Portfolio Project
 ================================================================================
 
---------------------------------------------------------------------------------
 OVERVIEW
---------------------------------------------------------------------------------
 
 This project demonstrates the creation of a fully functional custom AWS Virtual
 Private Cloud (VPC) from scratch, including networking components, EC2 instances,
