@@ -1,6 +1,4 @@
-================================================================================
-  EZ-CUSTOM-VPC — AWS Custom VPC Build
-  GitHub Portfolio Project
+EZ-CUSTOM-VPC — AWS Custom VPC Build
 ================================================================================
 
 OVERVIEW
