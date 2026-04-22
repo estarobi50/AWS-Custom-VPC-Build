@@ -82,7 +82,7 @@ DEPLOYMENT STEPS
 
 8. CONNECT AND TEST (PUBLIC INSTANCE)
    - Connect to the public EC2 via AWS Session Manager (no SSH key needed)
-   - Run: traceroute www.google.com
+   - Run: traceroute www.digitalcultureit.com or google.com
    - Confirm packets route through the Internet Gateway successfully
 
 9. CONFIGURE PRIVATE SUBNET OUTBOUND ACCESS
